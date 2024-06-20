@@ -1,0 +1,2 @@
+class SumAndAvgIn2DArray {
+}

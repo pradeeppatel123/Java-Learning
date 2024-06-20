@@ -1,0 +1,2 @@
+class SearchIn2DArray {
+}
